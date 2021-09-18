@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.Form1.resources
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\bin\Debug\Passaporola.exe.config
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\bin\Debug\Passaporola.exe
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\bin\Debug\Passaporola.pdb
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.exe
+C:\Users\Lenovo\Desktop\Projeler c#\Passaporola\obj\Debug\Passaporola.pdb

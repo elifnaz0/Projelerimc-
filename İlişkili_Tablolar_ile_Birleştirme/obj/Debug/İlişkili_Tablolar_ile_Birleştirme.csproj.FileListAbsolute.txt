@@ -1,0 +1,10 @@
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\bin\Debug\İlişkili_Tablolar_ile_Birleştirme.exe.config
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\bin\Debug\İlişkili_Tablolar_ile_Birleştirme.exe
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\bin\Debug\İlişkili_Tablolar_ile_Birleştirme.pdb
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.Form1.resources
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.Properties.Resources.resources
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.csproj.GenerateResource.cache
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.exe
+C:\Users\Lenovo\Desktop\Projeler c#\İlişkili_Tablolar_ile_Birleştirme\obj\Debug\İlişkili_Tablolar_ile_Birleştirme.pdb
